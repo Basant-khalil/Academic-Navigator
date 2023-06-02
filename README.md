@@ -11,5 +11,5 @@ The project's vision is to create a user-friendly application that helps student
 •I gave students the ability to go back and fix their input or quit the application at any time, ensuring that their experience with the application is as stress-free and flexible as possible.
 <br>
 </p><img src="images/frst_ocaml.png" id="rcimage" alt="Custom Kitchen Drawing" class="center"
-width="500" style="max-width:95%;border:2px solid #F1D16C;">
+width="500" style="max-width:100%;border:2px solid #F1D16C;">
 <p>
