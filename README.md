@@ -10,17 +10,14 @@
 		  <br>
 	   &bull;I added a GPA calculator to our application, which will help students monitor their academic progress throughout their college years. <br>
 	   &bull;I gave students the ability to go back and fix their input or quit the application at any time, ensuring that their experience with the application is as stress-free and flexible as possible. <br>
-          </p>
-         
-          </p><img src="assets/images/frst_ocaml.png" id="rcimage" alt="Custom Kitchen Drawing" class="center"
-            width="500" style="max-width:95%;border:2px solid #F1D16C;">
+          </p><img src="images/frst_ocaml.png" id="rcimage" alt="Custom Kitchen Drawing" class="center"
+             style="max-width:100%;border:2px solid #F1D16C;">
           <p>
+	  
             The engine first starts by welcoming the user to the database. Then, it informs the user of the available comamnds that he can input such as major 'some major' or quit command.
-          </p>
-          <p>
+<br><br>
             The engine has verifiability, meaning if you input an invalid command or even invalid major whether in the <em><strong>major</strong></em> or <em><strong>doublemajor</strong></em> command, it will promp you to enter the right one. 
 		  For example, if the user inputted <em><strong>major lk</strong></em> where <em><strong>lk</strong></em> is not a valid major, the engine will let the user know of such mistake and will ask if the user would like correct the error. 
-          </p>
-	  </p><img src="assets/images/scnd_ocaml.png" id="rcimage" alt="Custom Kitchen Drawing" class="center"
-            width="500" style="max-width:95%;border:2px solid #F1D16C;">
+	  </p><img src="images/scnd_ocaml.png" id="rcimage" alt="Custom Kitchen Drawing" class="center"
+            style="max-width:100%;border:2px solid #F1D16C;">
           <p>
