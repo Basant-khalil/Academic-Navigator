@@ -19,6 +19,5 @@ The engine has verifiability, meaning if you input an invalid command or even in
  	  </p><img src="images/scnd_ocaml.png" id="rcimage" alt="Custom Kitchen Drawing" class="center"
             style="max-width:100%;border:2px solid #F1D16C;">
 	     <p>
-<br>
  The engine will then ask  the user to input the college as one major could exist in different colleges and would thus have different requirements based on that. 
 	    If the college inputted by the user is invalid, the engine would let the user know of such error and promt him to reenter the choice as shown below.
