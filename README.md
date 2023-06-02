@@ -22,9 +22,7 @@ Then the updated roadmap of the major courses gets printed.
 <br>
 Finally, the engine asks if the user is interested to know more information about any course and if so it prints that information from the class roster.
 ![Custom Kitchen Drawing](images/ninth_ocaml.png)
-<video width="640" height="480" controls>
-  <source src="images/OCaml Video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Video Demo](images/OCaml Video.mp4)](images/OCaml Video.mp4)
+
 
 
