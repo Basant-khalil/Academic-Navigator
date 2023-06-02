@@ -22,4 +22,5 @@ Then the updated roadmap of the major courses gets printed.
 <br>
 Finally, the engine asks if the user is interested to know more information about any course and if so it prints that information from the class roster.
 ![Custom Kitchen Drawing](images/ninth_ocaml.png)
-<video src="https://drive.google.com/uc?export=download&id=1rXBxbVq-02kbEFLhPjCYOY-qZU164JRh" width="640" height="480" controls></video>
+[![Video Demo of Academic Navigator Project](https://example.com/video_thumbnail.png)]([https://drive.google.com/file/d/1rXBxbVq-02kbEFLhPjCYOY-qZU164JRh/preview](https://drive.google.com/file/d/1rXBxbVq-02kbEFLhPjCYOY-qZU164JRh/view?usp=sharing))
+
