@@ -13,6 +13,7 @@
           </p><img src="images/frst_ocaml.png" id="rcimage" alt="Custom Kitchen Drawing" class="center"
              style="max-width:100%;border:2px solid #F1D16C;">
           <p>
+	
             The engine first starts by welcoming the user to the database. Then, it informs the user of the available comamnds that he can input such as major **_some major_** or **_quit_** command.
 <br><br>
             The engine has verifiability, meaning if you input an invalid command or even invalid major whether in the **_major_** or **_doublemajor_** command, it will promp you to enter the right one. 
