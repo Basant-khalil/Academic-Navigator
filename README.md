@@ -5,13 +5,10 @@ The project's vision is to create a user-friendly application that helps student
 - I implemented a feature that allows students to sort classes based on their preferred time frames, making it easier for them to create a schedule that works for them. For instance, the student can ask the engine to output classes occuring at certain time frame such as the morning.
 - I added a GPA calculator to our application, which will help students monitor their academic progress throughout their college years. 
 - I gave students the ability to go back and fix their input or quit the application at any time, ensuring that their experience with the application is as stress-free and flexible as possible. 
-</p><img src="images/frst_ocaml.png" id="rcimage" alt="Custom Kitchen Drawing" class="center" style="max-width:100%;border:2px solid #F1D16C;"> 
-<p>
+![Custom Kitchen Drawing](images/frst_ocaml.png)
 	
             The engine first starts by welcoming the user to the database. Then, it informs the user of the available comamnds that he can input such as major **_some major_** or **_quit_** command.
 <br><br>
             The engine has verifiability, meaning if you input an invalid command or even invalid major whether in the **_major_** or **_doublemajor_** command, it will promp you to enter the right one. 
 		  For example, if the user inputted **_major lk_** where **_lk_** is not a valid major, the engine will let the user know of such mistake and will ask if the user would like correct the error. 
-	  </p><img src="images/scnd_ocaml.png" id="rcimage" alt="Custom Kitchen Drawing" class="center"
-            style="max-width:100%;border:2px solid #F1D16C;">
-          <p>
+![Custom Kitchen Drawing](images/scnd_ocaml.png)
