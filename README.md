@@ -1,3 +1,2 @@
-# CS3110_Project
+# Academic Navigator 
 
-It's our CS 3110 final project building a class roster database.
