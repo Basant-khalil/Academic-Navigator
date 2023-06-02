@@ -1,0 +1,44 @@
+{
+  "courses": [
+    {
+      "course_title": "math1920",
+      "course_name": "Multivariable Calculus for Engineers",
+      "course_number": "4267",
+      "credits": "4",
+      "subject": "math",
+      "instr": {
+        "netid": "jm882",
+        "first_name": "jason",
+        "middle_name": "",
+        "last_name": "Manning"
+      },
+      "location": "Malott Hall 228",
+      "description": "Introduction to multivariable calculus. Topics include partial derivatives, double and triple integrals, line and surface integrals, vector fields, Green's theorem, Stokes' theorem, and the divergence theorem.",
+      "class_section": {
+        "component": "discussion session",
+        "section": "string",
+        "meetings": {
+          "time_start": "7:30 PM",
+          "time_end": "4:35 PM",
+          "instructors": [
+            {
+              "netid": "jm882",
+              "first_name": "jason",
+              "middle_name": "",
+              "last_name": "Manning"
+            },
+            {
+              "netid": "kd288",
+              "first_name": "Kelly",
+              "middle_name": "",
+              "last_name": "Delp"
+            }
+          ]
+        }
+      },
+      "prereq": "Math 1910",
+      "forbidden_overlap": "MATH 2130, MATH 2220, MATH 2240",
+      "catalogWhenOffered": "Fall, Spring, Summer"
+    }
+  ]
+}

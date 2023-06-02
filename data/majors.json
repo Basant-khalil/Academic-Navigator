@@ -1,0 +1,253 @@
+{
+  "majors": [
+    {
+      "id": "cs", 
+      "college" : "engineering",
+      "Math courses": [
+        "MATH 1910",
+        "MATH 1920",
+        "MATH 2940"
+      ],
+      "Science courses": [
+        "CHEM 2090",
+        "PHYS 1112",
+        "PHYS 2213",
+        "CHEM 2080",
+        "PHYS 1110"
+      ],
+      "CS courses": [
+        "CS 111x",
+        "CS 2800",
+        "CS 3110",
+        "CS 4820",
+        "CS 4410",
+        "CS 2110",
+        "CS 3420 / CS 3420"
+      ],
+      "ENGRD":  [
+        "ENGRD 2110",  
+        "One Engrd of your choice not in the category of ENGRD 2110"
+      ],
+      "ENGRI":  [{
+        "description": "One ENGRI where some examples are: ",
+        "examples":[
+        "ENGRI 1101", 
+        "ENGRI 1120", 
+        "ENGRI 1140", 
+        "ENGRI 1160", 
+        "ENGRI 1170", 
+        "ENGRI 1200", 
+        "ENGRI 1220", 
+        "ENGRI 1270", 
+        "ENGRI 1320", 
+        "ENGRI 1337", 
+        "ENGRI 1620"]
+        
+      }
+      ],
+      "Advisor Appr Electives": 
+      [
+        "ECE 3400", 
+        "ECE 3100", 
+        "ECE 4750"
+      ],
+      "Major Elective": 
+      [
+        "CS 4720", 
+        "CS 4120", 
+        "CS 5150"
+      ],
+      "Liberal Studies": [{
+        "description" : "You need at least 18 credits of lib studies with at least 6 courses.",
+        "examples" : [
+        {
+          "course": "ANSC 4140",
+          "category": "KCM",
+          "college" : "CALS"
+        },
+        {
+          "course": "ARCH 1110",
+          "category": "LA",
+          "college" : "AAP"
+        },
+        {
+          "course": "ARCH 1300",
+          "category": "LA",
+          "college" : "AAP"
+        },
+        {
+          "course": "ARCH 1301",
+          "category": "LA",
+          "college" : "AAP"
+        },
+        {
+          "course": "ARCH 1501",
+          "category": "LA",
+          "college" : "AAP"
+        },
+        {
+          "course": "ARCH 1502",
+          "category": "LA",
+          "college" : "AAP"
+        },
+        {
+          "course": "ARCH 1801",
+          "category": "CA,HA",
+          "college" : "AAP"
+        },
+        {
+          "course": "ART 3092",
+          "category": "CA,LA",
+          "college" : "AAP"
+        },
+        {
+          "course": "ART 3702",
+          "category": "LA",
+          "college" : "AAP"
+        }] }],
+      "FWS": [{
+        "description": "At least 2 FWS, examples are: ",
+        "examples":[
+        "ENGL 1120", 
+        "ENGL 1130", 
+        "Ling 1100", 
+        "ENGL 1170"]}
+      ],
+      "PE": [{
+        "description": "At least 2 PEs, where examples are: ",
+        "examples":[
+          "PE 1100", 
+          "PE 1102", 
+          "PE 1101", 
+          "PE 1103", 
+          "PE 1104", 
+          "PE 1105", 
+          "PE 1108"]}
+      ]
+    },
+    { 
+      "id": "ece",
+      "college" : "engineering",
+      "Math courses": [
+        "MATH 1910",
+        "MATH 1920",
+        "MATH 2940",
+        "MATH 2930"
+      ],
+      "Science courses": [
+        "CHEM 2090",
+        "PHYS 1112", 
+        "PHYS 2213", 
+        "PHYS 2214", 
+        "PHYS 1110"
+      ],
+      "CS courses": [
+        "CS 111x", 
+        "Choose 3 of the following classes: ECE 3030 OR/AND ECE 3150; ECE 3100 OR/AND ECE 3250; ECE 3140"
+      ],
+      "ENGRD" :
+      [
+        "ENGRD 2100", 
+        "ENGRD 2200", 
+        "ECE 2300", 
+        "One Engrd of your choice not in the category of either ENGRD 2100, 2200 or 2300"
+      ],
+      "ENGRI": [{
+        "description": "One ENGRI where some examples are: ",
+        "examples":[
+        "ENGRI 1101", 
+        "ENGRI 1120", 
+        "ENGRI 1140", 
+        "ENGRI 1160", 
+        "ENGRI 1170", 
+        "ENGRI 1200", 
+        "ENGRI 1220", 
+        "ENGRI 1270", 
+        "ENGRI 1320", 
+        "ENGRI 1337", 
+        "ENGRI 1620"]
+        
+      }
+      ],
+      "Advisor Appr Electives": [
+        "ECE 3400", 
+        "ECE 3100", 
+        "ECE 4750"
+      ],
+      "Major Elective" : 
+      [
+        "ECE 4520", 
+        "CS 4120", 
+        "CS 4410"
+      ],
+      "Liberal Studies": [{
+        "description" : "You need at least 18 credits of lib studies with at least 6 courses.",
+        "examples" : [
+        {
+          "course": "ANSC 4140",
+          "category": "KCM",
+          "college" : "CALS"
+        },
+        {
+          "course": "ARCH 1110",
+          "category": "LA",
+          "college" : "AAP"
+        },
+        {
+          "course": "ARCH 1300",
+          "category": "LA",
+          "college" : "AAP"
+        },
+        {
+          "course": "ARCH 1301",
+          "category": "LA",
+          "college" : "AAP"
+        },
+        {
+          "course": "ARCH 1501",
+          "category": "LA",
+          "college" : "AAP"
+        },
+        {
+          "course": "ARCH 1502",
+          "category": "LA",
+          "college" : "AAP"
+        },
+        {
+          "course": "ARCH 1801",
+          "category": "CA,HA",
+          "college" : "AAP"
+        },
+        {
+          "course": "ART 3092",
+          "category": "CA,LA",
+          "college" : "AAP"
+        },
+        {
+          "course": "ART 3702",
+          "category": "LA",
+          "college" : "AAP"
+        }] }],
+        "FWS": [{
+          "description": "At least 2 FWS, examples are: ",
+          "examples":[
+          "ENGL 1120", 
+          "ENGL 1130", 
+          "Ling 1100", 
+          "ENGL 1170"]}
+        ],
+        "PE": [{
+          "description": "At least 2 PEs, where examples are: ",
+          "examples":[
+            "PE 1100", 
+            "PE 1102", 
+            "PE 1101", 
+            "PE 1103", 
+            "PE 1104", 
+            "PE 1105", 
+            "PE 1108"]}
+        ]
+    
+    }
+    ]
+  }
