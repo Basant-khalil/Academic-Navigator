@@ -16,8 +16,9 @@ The project's vision is to create a user-friendly application that helps student
 The engine first starts by welcoming the user to the database. Then, it informs the user of the available comamnds that he can input such as major 'some major' or quit command.
 <br><br>
 The engine has verifiability, meaning if you input an invalid command or even invalid major whether in the **_major_** or **_doublemajor_** command, it will promp you to enter the right one. For example, if the user inputted **_major lk_** where **_lk_** is not a valid major, the engine will let the user know of such mistake and will ask if the user would like correct the error.
- 	  </p><img src="assets/images/scnd_ocaml.png" id="rcimage" alt="Custom Kitchen Drawing" class="center"
+ 	  </p><img src="images/scnd_ocaml.png" id="rcimage" alt="Custom Kitchen Drawing" class="center"
             width="500" style="max-width:95%;border:2px solid #F1D16C;">
+	     <p>
 <br>
  The engine will then ask  the user to input the college as one major could exist in different colleges and would thus have different requirements based on that. 
 	    If the college inputted by the user is invalid, the engine would let the user know of such error and promt him to reenter the choice as shown below.
