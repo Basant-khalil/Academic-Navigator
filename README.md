@@ -17,3 +17,7 @@ Once the user inputs the right major and college, the engine would go on the nex
 Then the updated roadmap of the major courses gets printed.
 ![Custom Kitchen Drawing](images/fifth_ocaml.png)
 <br> The engine asks if there the user is interested to explore courses of certain subject happening at some timeframe and ifsuch it prints those courses.
+![Custom Kitchen Drawing](images/sxth_ocaml.png)
+Finally, the engine asks if the user is interested to know more information about any course and if so it prints that information from the class roster.
+![Custom Kitchen Drawing](images/ninth_ocaml.png)
+<video src="https://drive.google.com/uc?export=download&id=1rXBxbVq-02kbEFLhPjCYOY-qZU164JRh" width="640" height="480" controls></video>
