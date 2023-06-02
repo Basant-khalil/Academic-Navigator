@@ -14,10 +14,10 @@
              style="max-width:100%;border:2px solid #F1D16C;">
           <p>
 	  
-            The engine first starts by welcoming the user to the database. Then, it informs the user of the available comamnds that he can input such as major <b><i>some major<b><i> or <b><i>quit<b><i> command.
+            The engine first starts by welcoming the user to the database. Then, it informs the user of the available comamnds that he can input such as major **_some major_** or **_quit_** command.
 <br><br>
-            The engine has verifiability, meaning if you input an invalid command or even invalid major whether in the **_major_** or <b><i>doublemajor<i><b> command, it will promp you to enter the right one. 
-		  For example, if the user inputted <b><i>major lk<i><b> where <b><i>lk<i><b> is not a valid major, the engine will let the user know of such mistake and will ask if the user would like correct the error. 
+            The engine has verifiability, meaning if you input an invalid command or even invalid major whether in the **_major_** or **_doublemajor_** command, it will promp you to enter the right one. 
+		  For example, if the user inputted **_major lk_** where **_lk_** is not a valid major, the engine will let the user know of such mistake and will ask if the user would like correct the error. 
 	  </p><img src="images/scnd_ocaml.png" id="rcimage" alt="Custom Kitchen Drawing" class="center"
             style="max-width:100%;border:2px solid #F1D16C;">
           <p>
